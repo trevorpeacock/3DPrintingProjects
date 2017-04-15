@@ -1,0 +1,226 @@
+solid Untitled-55f7de18
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 148.0 148.0 0.3
+    vertex 1.9999999999999998 148.0 0.0
+    vertex 148.0 148.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 1.9999999999999998 148.0 0.0
+    vertex 148.0 148.0 0.3
+    vertex 1.9999999999999998 148.0 0.3
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 148.0 148.0 0.3
+    vertex 148.0 1.9999999999999998 0.0
+    vertex 148.0 1.9999999999999998 0.3
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 148.0 1.9999999999999998 0.0
+    vertex 148.0 148.0 0.3
+    vertex 148.0 148.0 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 1.9999999999999998 1.9999999999999998 0.3
+    vertex 148.0 1.9999999999999998 0.0
+    vertex 1.9999999999999998 1.9999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 148.0 1.9999999999999998 0.0
+    vertex 1.9999999999999998 1.9999999999999998 0.3
+    vertex 148.0 1.9999999999999998 0.3
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 1.9999999999999998 148.0 0.0
+    vertex 1.9999999999999998 1.9999999999999998 0.3
+    vertex 1.9999999999999998 1.9999999999999998 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 1.9999999999999998 1.9999999999999998 0.3
+    vertex 1.9999999999999998 148.0 0.0
+    vertex 1.9999999999999998 148.0 0.3
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 150.0 0.3
+    vertex 150.0 150.0 0.0
+    vertex 0.0 150.0 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 150.0 150.0 0.0
+    vertex 0.0 150.0 0.3
+    vertex 150.0 150.0 0.3
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 150.0 0.3
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 0.3
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 150.0 0.3
+    vertex 0.0 150.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 150.0 0.0 0.3
+    vertex 0.0 0.0 0.0
+    vertex 150.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 150.0 0.0 0.3
+    vertex 0.0 0.0 0.3
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 150.0 150.0 0.0
+    vertex 150.0 0.0 0.3
+    vertex 150.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 150.0 0.0 0.3
+    vertex 150.0 150.0 0.0
+    vertex 150.0 150.0 0.3
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 0.0 0.3
+    vertex 1.9999999999999998 1.9999999999999998 0.3
+    vertex 0.0 150.0 0.3
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 1.9999999999999998 1.9999999999999998 0.3
+    vertex 0.0 0.0 0.3
+    vertex 150.0 0.0 0.3
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 1.9999999999999998 1.9999999999999998 0.3
+    vertex 150.0 0.0 0.3
+    vertex 148.0 1.9999999999999998 0.3
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 148.0 1.9999999999999998 0.3
+    vertex 150.0 0.0 0.3
+    vertex 148.0 148.0 0.3
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 150.0 0.3
+    vertex 1.9999999999999998 148.0 0.3
+    vertex 150.0 150.0 0.3
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 1.9999999999999998 148.0 0.3
+    vertex 0.0 150.0 0.3
+    vertex 1.9999999999999998 1.9999999999999998 0.3
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 150.0 150.0 0.3
+    vertex 1.9999999999999998 148.0 0.3
+    vertex 148.0 148.0 0.3
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 150.0 150.0 0.3
+    vertex 148.0 148.0 0.3
+    vertex 150.0 0.0 0.3
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 150.0 0.0
+    vertex 1.9999999999999998 148.0 0.0
+    vertex 0.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 1.9999999999999998 148.0 0.0
+    vertex 0.0 150.0 0.0
+    vertex 150.0 150.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 1.9999999999999998 148.0 0.0
+    vertex 150.0 150.0 0.0
+    vertex 148.0 148.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 148.0 148.0 0.0
+    vertex 150.0 150.0 0.0
+    vertex 148.0 1.9999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 1.9999999999999998 1.9999999999999998 0.0
+    vertex 150.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 1.9999999999999998 1.9999999999999998 0.0
+    vertex 0.0 0.0 0.0
+    vertex 1.9999999999999998 148.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 150.0 0.0 0.0
+    vertex 1.9999999999999998 1.9999999999999998 0.0
+    vertex 148.0 1.9999999999999998 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 150.0 0.0 0.0
+    vertex 148.0 1.9999999999999998 0.0
+    vertex 150.0 150.0 0.0
+  endloop
+endfacet
+endsolid Untitled-55f7de18
